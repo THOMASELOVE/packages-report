@@ -2,6 +2,4 @@
 
 A repo from rstudio::conf 2019 wtf workshop
 
-An edit from RStudio
-
-Another edit, now from Github in the browser.
+Pushing forward with the packages report work we did at that session.
